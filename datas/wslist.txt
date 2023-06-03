@@ -1,0 +1,1000 @@
+0	8.23.224.110	United States	Nevada	Reno	39.5358	-119.8373	14627   
+1	8.23.224.110	United States	Nevada	Reno	39.5358	-119.8373	14627   
+2	8.23.224.110	United States	Nevada	Reno	39.5358	-119.8373	14627   
+3	8.23.224.110	United States	Nevada	Reno	39.5358	-119.8373	14627   
+4	8.23.224.110	United States	Nevada	Reno	39.5358	-119.8373	14627   
+5	204.13.248.116	United States	New Jersey	Newark	40.7357	-74.1724	33517   
+6	190.114.221.31	Argentina	Buenos Aires	Castelar	-34.6667	-58.6667	27883   
+7	190.114.221.31	Argentina	Buenos Aires	Castelar	-34.6667	-58.6667	27883   
+8	200.45.113.149	Argentina	Ciudad Autonoma de Buenos Aires	Buenos Aires	-34.6132	-58.3772	7303
+9	69.0.150.89	United States	Florida	Miami	25.7743	-80.1937	13768   
+10	None	None	None	None	None	None	None
+11	181.170.212.174	Argentina	Ciudad Autonoma de Buenos Aires	Buenos Aires	-34.6132	-58.3772	10481   
+12	52.164.206.56	Ireland	Dublin	Dublin	53.3440	-6.2672	8075    
+13	137.117.17.70	United States	California	San Francisco	37.7749	-122.4194	8075    
+14	200.127.117.188	Argentina	Buenos Aires	Castelar	-34.6667	-58.6667	10481   
+15	64.37.50.253	United States	Florida	Orlando	28.5788	-81.1846	33182   
+16	None	None	None	None	None	None	None
+17	None	None	None	None	None	None	None
+18	None	None	None	None	None	None	None
+19	None	None	None	None	None	None	None
+20	None	None	None	None	None	None	None
+21	210.193.176.60	Australia	Australian Capital Territory	Macquarie	-35.2513	149.0636	17477   
+22	210.193.176.60	Australia	Australian Capital Territory	Macquarie	-35.2513	149.0636	17477   
+23	210.193.176.60	Australia	Australian Capital Territory	Macquarie	-35.2513	149.0636	17477   
+24	203.19.66.79	Australia	Queensland	Brisbane	-27.4679	153.0281	9268    
+25	203.19.66.79	Australia	Queensland	Brisbane	-27.4679	153.0281	9268    
+26	203.19.66.79	Australia	Queensland	Brisbane	-27.4679	153.0281	9268    
+27	203.19.66.79	Australia	Queensland	Brisbane	-27.4679	153.0281	9268    
+28	116.212.196.42	Australia	New South Wales	Sydney	-33.8679	151.2073	9822    
+29	116.212.196.42	Australia	New South Wales	Sydney	-33.8679	151.2073	9822    
+30	116.212.196.42	Australia	New South Wales	Sydney	-33.8679	151.2073	9822    
+31	222.138.2.131	China	Henan	Zhumadian	32.9794	114.0294	4837    
+32	222.138.2.131	China	Henan	Zhumadian	32.9794	114.0294	4837    
+33	222.138.2.131	China	Henan	Zhumadian	32.9794	114.0294	4837    
+34	52.65.8.75	Australia	New South Wales	Sydney	-33.8679	151.2073	16509   
+35	52.65.8.75	Australia	New South Wales	Sydney	-33.8679	151.2073	16509   
+36	95.138.130.220	United Kingdom	England	London	51.5085	-0.1257	15395   
+37	203.12.31.152	Australia	Victoria	Melbourne	-37.8140	144.9633	2764    
+38	110.232.118.37	Australia	New South Wales	Liverpool	-33.9000	150.9333	56038   
+39	210.193.176.124	Australia	Australian Capital Territory	Macquarie	-35.2513	149.0636	17477   
+40	204.11.56.37	Virgin Islands, British	British Virgin Islands	Road Town	18.4167	-64.6167	40034   
+41	204.11.56.37	Virgin Islands, British	British Virgin Islands	Road Town	18.4167	-64.6167	40034   
+42	204.11.56.37	Virgin Islands, British	British Virgin Islands	Road Town	18.4167	-64.6167	40034   
+43	103.1.187.192	Australia	Queensland	Indooroopilly	-27.5030	152.9752	133159  
+44	202.125.108.41	Bangladesh	Dhaka	Dhaka	23.7104	90.4074	136156  
+45	202.125.108.41	Bangladesh	Dhaka	Dhaka	23.7104	90.4074	136156  
+46	202.125.108.41	Bangladesh	Dhaka	Dhaka	23.7104	90.4074	136156  
+47	202.125.108.41	Bangladesh	Dhaka	Dhaka	23.7104	90.4074	136156  
+48	141.8.224.183	Switzerland	Zurich	Zurich	47.3667	8.5500	40034   
+49	141.8.224.183	Switzerland	Zurich	Zurich	47.3667	8.5500	40034   
+50	141.8.224.183	Switzerland	Zurich	Zurich	47.3667	8.5500	40034   
+51	141.8.224.183	Switzerland	Zurich	Zurich	47.3667	8.5500	40034   
+52	202.59.49.195	Australia	South Australia	Findon	-34.9000	138.5333	9667    
+53	None	None	None	None	None	None	None
+54	None	None	None	None	None	None	None
+55	None	None	None	None	None	None	None
+56	203.57.8.27	Australia	New South Wales	Bathurst	-33.4166	149.5806	45692   
+57	203.57.8.27	Australia	New South Wales	Bathurst	-33.4166	149.5806	45692   
+58	138.201.85.140	Germany	Berlin	Berlin	52.5244	13.4105	24940   
+59	138.201.85.140	Germany	Berlin	Berlin	52.5244	13.4105	24940   
+60	None	None	None	None	None	None	None
+61	59.154.43.98	Australia	New South Wales	Macquarie Park	-33.7811	151.1276	7474    
+62	220.101.39.218	Australia	New South Wales	Macquarie Park	-33.7811	151.1276	7474    
+63	202.80.147.13	Australia	Queensland	Brisbane	-27.4679	153.0281	23677   
+64	202.80.147.13	Australia	Queensland	Brisbane	-27.4679	153.0281	23677   
+65	69.58.186.114	United States	Virginia	Reston	38.9567	-77.3421	30060   
+66	69.58.186.114	United States	Virginia	Reston	38.9567	-77.3421	30060   
+67	None	None	None	None	None	None	None
+68	None	None	None	None	None	None	None
+69	138.25.40.207	Australia	New South Wales	Sydney	-33.8679	151.2073	7575    
+70	None	None	None	None	None	None	None
+71	101.178.166.74	Australia	Queensland	Ayr	-19.5739	147.4067	1221    
+72	203.98.80.147	Australia	New South Wales	Surry Hills	-33.8837	151.2128	NA      
+73	103.4.213.81	Australia	Queensland	Burleigh Heads	-28.1000	153.4500	9268    
+74	180.235.131.191	Australia	Queensland	Brisbane	-27.4679	153.0281	24446   
+75	103.64.149.38	Australia	Victoria	Traralgon	-38.1953	146.5415	55359   
+76	None	None	None	None	None	None	None
+77	188.166.198.200	Singapore	Singapore	Singapore	1.2897	103.8501	14061   
+78	13.55.78.181	Australia	New South Wales	Sydney	-33.8679	151.2073	16509   
+79	52.237.209.97	Australia	New South Wales	Sydney	-33.8679	151.2073	8075    
+80	54.253.112.60	Australia	New South Wales	Sydney	-33.8679	151.2073	16509   
+81	13.54.107.6	Australia	New South Wales	Sydney	-33.8679	151.2073	16509   
+82	203.89.199.52	Australia	New South Wales	Ryde	-33.8167	151.1000	9328    
+83	125.7.26.50	Australia	Australian Capital Territory	Macquarie	-35.2513	149.0636	17477   
+84	139.86.7.115	Australia	Queensland	Toowoomba	-27.5606	151.9539	45213   
+85	212.124.237.190	Austria	-	-	48.2085	16.3721	3561    
+86	80.245.197.98	Austria	Wien	Vienna	48.2085	16.3721	21360   
+87	80.245.197.98	Austria	Wien	Vienna	48.2085	16.3721	21360   
+88	80.245.197.98	Austria	Wien	Vienna	48.2085	16.3721	21360   
+89	80.245.197.98	Austria	Wien	Vienna	48.2085	16.3721	21360   
+90	None	None	None	None	None	None	None
+91	None	None	None	None	None	None	None
+92	None	None	None	None	None	None	None
+93	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+94	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+95	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+96	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+97	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+98	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+99	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+100	213.229.60.9	Austria	Wien	Vienna	48.2085	16.3721	6830    
+101	91.143.106.116	Austria	Steiermark	Graz	47.0667	15.4500	29056   
+102	91.143.106.116	Austria	Steiermark	Graz	47.0667	15.4500	29056   
+103	128.130.204.71	Austria	Wien	Vienna	48.2085	16.3721	679     
+104	128.130.204.71	Austria	Wien	Vienna	48.2085	16.3721	679     
+105	128.131.172.205	Austria	Wien	Vienna	48.2085	16.3721	679     
+106	None	None	None	None	None	None	None
+107	None	None	None	None	None	None	None
+108	140.78.148.6	Austria	Oberosterreich	Linz	48.3064	14.2861	1205    
+109	140.78.148.6	Austria	Oberosterreich	Linz	48.3064	14.2861	1205    
+110	140.78.148.6	Austria	Oberosterreich	Linz	48.3064	14.2861	1205    
+111	140.78.148.6	Austria	Oberosterreich	Linz	48.3064	14.2861	1205    
+112	217.13.188.3	Austria	Wien	Vienna	48.2085	16.3721	24864   
+113	None	None	None	None	None	None	None
+114	212.72.171.211	Germany	Hamburg	Hamburg	53.5753	10.0153	8893    
+115	62.212.163.105	Austria	Niederosterreich	Zwettl	48.6043	15.1667	29081   
+116	91.194.85.77	Germany	Nordrhein-Westfalen	Dusseldorf	51.2217	6.7762	39519   
+117	193.33.216.10	Austria	Salzburg	Salzburg	47.7994	13.0440	39878   
+118	193.227.108.20	Austria	Wien	Vienna	48.2085	16.3721	6830    
+119	185.55.25.33	Austria	Karnten	Moosburg	46.6575	14.1747	59456   
+120	54.214.46.164	United States	Oregon	Portland	45.5234	-122.6762	16509   
+121	212.98.168.182	Belarus	Minskaya voblasts'	Minsk	53.9000	27.5667	12406   
+122	193.84.84.90	Belgium	Brussels Hoofdstedelijk Gewest	Brussels	50.8504	4.3488	2611    
+123	193.84.84.90	Belgium	Brussels Hoofdstedelijk Gewest	Brussels	50.8504	4.3488	2611    
+124	193.84.84.90	Belgium	Brussels Hoofdstedelijk Gewest	Brussels	50.8504	4.3488	2611    
+125	213.154.250.200	Netherlands	Gelderland	Ede	52.0333	5.6583	12859   
+126	213.154.250.200	Netherlands	Gelderland	Ede	52.0333	5.6583	12859   
+127	213.154.250.200	Netherlands	Gelderland	Ede	52.0333	5.6583	12859   
+128	213.154.250.200	Netherlands	Gelderland	Ede	52.0333	5.6583	12859   
+129	81.82.251.141	Belgium	Oost-Vlaanderen	Gent	51.0500	3.7167	6848    
+130	81.82.251.141	Belgium	Oost-Vlaanderen	Gent	51.0500	3.7167	6848    
+131	81.82.251.141	Belgium	Oost-Vlaanderen	Gent	51.0500	3.7167	6848    
+132	134.58.61.32	Belgium	Vlaams-Brabant	Leuven	50.8796	4.7009	2611    
+133	134.58.40.146	Belgium	Vlaams-Brabant	Leuven	50.8796	4.7009	2611    
+134	134.58.61.32	Belgium	Vlaams-Brabant	Leuven	50.8796	4.7009	2611    
+135	None	None	None	None	None	None	None
+136	104.40.138.232	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	8075    
+137	193.191.216.113	Belgium	Brussels Hoofdstedelijk Gewest	Brussels	50.8504	4.3488	2611    
+138	104.42.71.15	United States	California	San Francisco	37.7749	-122.4194	8075    
+139	54.93.81.240	Germany	Hessen	Frankfurt am Main	50.1155	8.6842	16509   
+140	193.58.158.216	Belgium	Antwerpen	Antwerpen	51.2199	4.4035	2611    
+141	84.199.107.212	Belgium	Antwerpen	Mechelen	51.0257	4.4776	6848    
+142	84.199.107.212	Belgium	Antwerpen	Mechelen	51.0257	4.4776	6848    
+143	84.199.107.212	Belgium	Antwerpen	Mechelen	51.0257	4.4776	6848    
+144	193.190.97.169	Belgium	Brussels Hoofdstedelijk Gewest	Brussels	50.8504	4.3488	2611    
+145	137.117.224.218	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	8075    
+146	137.117.224.218	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	8075    
+147	137.117.224.218	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	8075    
+148	None	None	None	None	None	None	None
+149	None	None	None	None	None	None	None
+150	None	None	None	None	None	None	None
+151	157.164.136.236	Belgium	Namur	Namur	50.4669	4.8675	2611    
+152	31.24.112.60	Belgium	West-Vlaanderen	Oostrozebeke	50.9209	3.3380	8368    
+153	212.63.232.41	Belgium	Brussels Hoofdstedelijk Gewest	Brussels	50.8504	4.3488	25367   
+154	91.233.206.99	Belgium	Oost-Vlaanderen	Gent	51.0500	3.7167	28747   
+155	46.30.213.198	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	51468   
+156	82.143.94.151	Belgium	Oost-Vlaanderen	Gent	51.0500	3.7167	6848    
+157	92.51.182.65	Denmark	Nordrhein-Westfalen	Koeln	50.9333	6.9500	20773   
+158	52.29.201.78	Germany	Hessen	Frankfurt 	50.1155	8.6842	16509   
+159	193.191.134.34	Belgium	West-Vlaanderen	Oostende	51.2234	2.9118	2611    
+160	146.177.32.26	United Kingdom	England	London	51.5085	-0.1257	15395   
+161	185.43.124.11	Belgium	Antwerpen	Antwerpen	51.2199	4.4035	199796  
+162	37.97.224.205	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	20857   
+163	89.111.234.4	Bosnia and Herzegovina	Republika Srpska	Banja Luka	44.7758	17.1856	25144   
+164	89.111.234.4	Bosnia and Herzegovina	Republika Srpska	Banja Luka	44.7758	17.1856	25144   
+165	89.111.234.4	Bosnia and Herzegovina	Republika Srpska	Banja Luka	44.7758	17.1856	25144   
+166	81.93.92.81	Bosnia and Herzegovina	Republika Srpska	Banja Luka	44.7758	17.1856	25144   
+167	None	None	None	None	None	None	None
+168	None	None	None	None	None	None	None
+169	None	None	None	None	None	None	None
+170	None	None	None	None	None	None	None
+171	187.31.66.79	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	14571   
+172	187.31.66.79	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	14571   
+173	None	None	None	None	None	None	None
+174	None	None	None	None	None	None	None
+175	200.10.179.18	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+176	200.10.179.228	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+177	200.10.179.18	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+178	177.15.65.200	Brazil	Distrito Federal	Brasilia	-15.7797	-47.9297	53237   
+179	186.251.38.12	Brazil	Santa Catarina	Porto Belo	-27.1578	-48.5531	52910   
+180	186.251.38.12	Brazil	Santa Catarina	Porto Belo	-27.1578	-48.5531	52910   
+181	200.162.48.134	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	15180   
+182	179.107.33.86	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	26592   
+183	179.107.33.86	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	26592   
+184	200.198.128.51	Brazil	Espirito Santo	Alegre	-20.7636	-41.5331	7465    
+185	200.136.72.23	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+186	200.140.194.54	Brazil	Parana	Foz do Iguacu	-25.5478	-54.5881	8167    
+187	187.45.193.178	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	27715   
+188	200.198.216.183	Brazil	Distrito Federal	Brasilia	-15.7797	-47.9297	10954   
+189	200.10.179.211	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+190	200.10.179.225	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+191	200.10.179.228	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+192	200.10.179.228	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+193	72.32.3.146	United States	Texas	Windcrest	29.4997	-98.3992	33070   
+194	200.10.179.18	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+195	200.228.16.33	Brazil	Minas Gerais	Belo Horizonte	-19.9208	-43.9378	4230    
+196	None	None	None	None	None	None	None
+197	104.27.132.135	United States	Arizona	Phoenix	33.4484	-112.0740	13335   
+198	200.10.179.43	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+199	200.249.177.15	Brazil	Paraiba	Joao Pessoa	-7.1150	-34.8631	4230    
+200	None	None	None	None	None	None	None
+201	187.86.211.97	Brazil	Sao Paulo	Sao Bernardo do Campo	-23.6939	-46.5650	53070   
+202	201.16.193.113	Brazil	Goias	Goiania	-16.6786	-49.2539	16735   
+203	None	None	None	None	None	None	None
+204	200.10.179.225	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+205	201.6.103.224	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	28573   
+206	172.106.164.38	United States	California	Walnut	34.0154	-117.8582	40676   
+207	200.10.179.228	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+208	200.10.179.228	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	1251    
+209	18.231.48.134	Brazil	Sao Paulo	Sao Paulo	-23.5475	-46.6361	16509   
+210	None	None	None	None	None	None	None
+211	None	None	None	None	None	None	None
+212	None	None	None	None	None	None	None
+213	62.44.118.99	Bulgaria	Sofia (stolitsa)	Sofia	42.6975	23.3242	5421    
+214	62.44.118.99	Bulgaria	Sofia (stolitsa)	Sofia	42.6975	23.3242	5421    
+215	195.96.241.189	Bulgaria	Sofia (stolitsa)	Sofia	42.6975	23.3242	8745    
+216	195.96.241.189	Bulgaria	Sofia (stolitsa)	Sofia	42.6975	23.3242	8745    
+217	195.242.126.251	Bulgaria	Gabrovo	Sevlievo	43.0258	25.1136	41799   
+218	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+219	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+220	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+221	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+222	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+223	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+224	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+225	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+226	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+227	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+228	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+229	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+230	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+231	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+232	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+233	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+234	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+235	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+236	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+237	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+238	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+239	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+240	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+241	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+242	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+243	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+244	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+245	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+246	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+247	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+248	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+249	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+250	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+251	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+252	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+253	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+254	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+255	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+256	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+257	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+258	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+259	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+260	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+261	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+262	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+263	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+264	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+265	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+266	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+267	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+268	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+269	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+270	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+271	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+272	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+273	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+274	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+275	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+276	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+277	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+278	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+279	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+280	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+281	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+282	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+283	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+284	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+285	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+286	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+287	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+288	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+289	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+290	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+291	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+292	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+293	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+294	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+295	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+296	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+297	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+298	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+299	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+300	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+301	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+302	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+303	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+304	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+305	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+306	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+307	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+308	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+309	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+310	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+311	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+312	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+313	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+314	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+315	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+316	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+317	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+318	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+319	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+320	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+321	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+322	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+323	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+324	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+325	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+326	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+327	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+328	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+329	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+330	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+331	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+332	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+333	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+334	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+335	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+336	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+337	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+338	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+339	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+340	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+341	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+342	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+343	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+344	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+345	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+346	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+347	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+348	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+349	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+350	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+351	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+352	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+353	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+354	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+355	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+356	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+357	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+358	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+359	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+360	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+361	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+362	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+363	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+364	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+365	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+366	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+367	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+368	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+369	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+370	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+371	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+372	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+373	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+374	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+375	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+376	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+377	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+378	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+379	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+380	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+381	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+382	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+383	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+384	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+385	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+386	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+387	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+388	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+389	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+390	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+391	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+392	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+393	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+394	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+395	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+396	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+397	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+398	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+399	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+400	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+401	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+402	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+403	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+404	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+405	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+406	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+407	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+408	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+409	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+410	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+411	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+412	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+413	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+414	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+415	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+416	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+417	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+418	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+419	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+420	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+421	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+422	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+423	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+424	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+425	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+426	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+427	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+428	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+429	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+430	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+431	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+432	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+433	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+434	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+435	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+436	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+437	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+438	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+439	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+440	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+441	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+442	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+443	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+444	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+445	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+446	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+447	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+448	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+449	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+450	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+451	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+452	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+453	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+454	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+455	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+456	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+457	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+458	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+459	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+460	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+461	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+462	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+463	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+464	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+465	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+466	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+467	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+468	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+469	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+470	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+471	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+472	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+473	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+474	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+475	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+476	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+477	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+478	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+479	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+480	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+481	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+482	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+483	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+484	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+485	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+486	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+487	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+488	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+489	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+490	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+491	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+492	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+493	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+494	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+495	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+496	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+497	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+498	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+499	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+500	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+501	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+502	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+503	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+504	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+505	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+506	166.78.45.182	United States	Texas	Windcrest	29.4997	-98.3992	33070   
+507	208.64.239.161	United States	Texas	Plano	33.0735	-96.8044	6606    
+508	208.64.239.161	United States	Texas	Plano	33.0735	-96.8044	6606    
+509	166.78.45.182	United States	Texas	Windcrest	29.4997	-98.3992	33070   
+510	166.78.45.182	United States	Texas	Windcrest	29.4997	-98.3992	33070   
+511	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+512	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+513	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+514	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+515	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+516	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+517	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+518	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+519	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+520	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+521	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+522	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+523	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+524	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+525	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+526	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+527	137.82.205.212	Canada 	British Columbia	Vancouver	49.2658	-123.2566	393249  
+528	52.45.115.20	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+529	64.98.145.30	Canada	Ontario	Toronto	43.6391	-79.4259	32491   
+530	64.98.145.30	Canada	Ontario	Toronto	43.6391	-79.4259	32491   
+531	64.98.145.30	Canada	Ontario	Toronto	43.6391	-79.4259	32491   
+532	64.98.145.30	Canada	Ontario	Toronto	43.6391	-79.4259	32491   
+533	None	None	None	None	None	None	None
+534	None	None	None	None	None	None	None
+535	None	None	None	None	None	None	None
+536	206.210.110.19	Canada	Ontario	Toronto	43.7024	-79.5626	33130   
+537	206.210.110.19	Canada	Ontario	Toronto	43.7024	-79.5626	33130   
+538	206.210.110.19	Canada	Ontario	Toronto	43.7024	-79.5626	33130   
+539	52.228.35.191	Canada	Ontario	Toronto	43.7001	-79.4163	8075    
+540	52.228.35.191	Canada	Ontario	Toronto	43.7001	-79.4163	8075    
+541	52.228.35.191	Canada	Ontario	Toronto	43.7001	-79.4163	8075    
+542	None	None	None	None	None	None	None
+543	None	None	None	None	None	None	None
+544	199.216.212.217	Canada	Alberta	Medicine Hat	50.0501	-110.6683	54453   
+545	199.216.212.217	Canada	Alberta	Medicine Hat	50.0501	-110.6683	54453   
+546	199.216.212.217	Canada	Alberta	Medicine Hat	50.0501	-110.6683	54453   
+547	None	None	None	None	None	None	None
+548	None	None	None	None	None	None	None
+549	None	None	None	None	None	None	None
+550	None	None	None	None	None	None	None
+551	34.234.133.40	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+552	34.234.133.40	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+553	199.212.20.105	Canada	Ontario	Ottawa	45.4112	-75.6981	806     
+554	52.85.83.152	United States	California	Los Angeles	34.0522	-118.2437	16509   
+555	52.85.83.152	United States	California	Los Angeles	34.0522	-118.2437	16509   
+556	None	None	None	None	None	None	None
+557	None	None	None	None	None	None	None
+558	50.17.249.67	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+559	None	None	None	None	None	None	None
+560	None	None	None	None	None	None	None
+561	None	None	None	None	None	None	None
+562	None	None	None	None	None	None	None
+563	None	None	None	None	None	None	None
+564	None	None	None	None	None	None	None
+565	None	None	None	None	None	None	None
+566	40.112.143.214	United States	California	San Francisco	37.7749	-122.4194	8075    
+567	40.112.143.214	United States	California	San Francisco	37.7749	-122.4194	8075    
+568	108.60.15.23	Canada	British Columbia	Burnaby	49.2516	-123.0106	26753   
+569	96.53.118.26	Canada	Alberta	Jasper	52.8787	-118.0812	6327    
+570	96.53.118.26	Canada	Alberta	Jasper	52.8787	-118.0812	6327    
+571	166.94.11.26	United States	Virginia	Fairfax	38.8543	-77.3588	3926    
+572	142.213.197.37	Canada	Quebec	Quebec	46.7966	-71.2655	11489   
+573	130.113.93.38	Canada	Ontario	Hamilton	43.2579	-79.9190	23237   
+574	216.81.11.13	Canada	Manitoba	Winnipeg	49.8925	-97.1406	7122    
+575	208.73.211.177	United States	New York	Florida	41.3282	-74.3488	40034   
+576	208.91.196.28	United States	Texas	Austin	30.2672	-97.7431	40034   
+577	50.112.160.78	United States	Oregon	Portland	45.5234	-122.6762	16509   
+578	174.90.122.198	Canada	Ontario	Toronto	43.6414	-79.4116	603     
+579	223.202.204.36	China	Beijing	Beijing	39.9075	116.3972	4808    
+580	206.152.47.97	United States	Missouri	Town and Country	38.6470	-90.5446	3561    
+581	206.152.47.97	United States	Missouri	Town and Country	38.6470	-90.5446	3561    
+582	69.172.201.153	United States	California	Los Angeles	34.0522	-118.2437	19324   
+583	52.232.129.120	Canada	Quebec	Quebec	46.8123	-71.2145	8075    
+584	184.73.252.245	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+585	204.80.4.107	Canada	Quebec	Joliette	46.0168	-73.4492	16438   
+586	24.69.167.138	Canada	British Columbia	Victoria	48.4329	-123.3693	6327    
+587	66.46.108.254	Canada	Alberta	Edmonton	53.5501	-113.4687	15290   
+588	69.71.182.231	United States	Arizona	Queen Creek	33.2487	-111.6343	10835   
+589	199.212.116.237	Canada	Ontario	Toronto	43.7211	-79.3788	549     
+590	None	None	None	None	None	None	None
+591	216.201.104.134	Canada	Ontario	Toronto	43.7001	-79.4163	18650   
+592	199.115.125.130	Canada	Quebec	Montreal	45.5088	-73.5878	8304    
+593	None	None	None	None	None	None	None
+594	None	None	None	None	None	None	None
+595	94.136.40.51	Germany	Nordrhein-Westfalen	Koeln	50.9333	6.9500	20773   
+596	184.168.53.1	United States	Arizona	Scottsdale	33.6020	-111.8879	26496   
+597	69.70.6.254	Canada	Quebec	Montrea	45.5088	-73.5878	5769    
+598	191.236.188.19	United States	Illinois	Chicago	41.8500	-87.6500	8075    
+599	None	None	None	None	None	None	None
+600	None	None	None	None	None	None	None
+601	None	None	None	None	None	None	None
+602	None	None	None	None	None	None	None
+603	None	None	None	None	None	None	None
+604	None	None	None	None	None	None	None
+605	None	None	None	None	None	None	None
+606	None	None	None	None	None	None	None
+607	200.27.133.148	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	6429    
+608	200.27.133.148	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	6429    
+609	200.27.133.148	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	6429    
+610	200.27.133.148	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	6429    
+611	52.7.88.180	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+612	200.83.4.60	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	22047   
+613	200.83.4.60	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	22047   
+614	200.27.220.54	Chile	Valparaiso	Valparaiso	-33.0393	-71.6273	6429    
+615	200.72.242.111	Chile	Tarapaca	Iquique	-20.2208	-70.1431	6471    
+616	201.238.215.90	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	14259   
+617	201.238.192.115	Chile	Region Metropolitana de Santiago	Santiago	-33.4263	-70.5666	14259   
+618	23.41.75.163	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	16625   
+619	45.7.230.7	Chile	Maule	Curico	-34.9833	-71.2333	52512   
+620	None	None	None	None	None	None	None
+621	None	None	None	None	None	None	None
+622	None	None	None	None	None	None	None
+623	None	None	None	None	None	None	None
+624	None	None	None	None	None	None	None
+625	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+626	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+627	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+628	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+629	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+630	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+631	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+632	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+633	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+634	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+635	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+636	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+637	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+638	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+639	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+640	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+641	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+642	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+643	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+644	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+645	61.147.124.120	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+646	222.76.216.91	China	Fujian	Xiamen	24.4798	118.0819	133775  
+647	222.76.216.91	China	Fujian	Xiamen	24.4798	118.0819	133775  
+648	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+649	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+650	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+651	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+652	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+653	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+654	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+655	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+656	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+657	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+658	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+659	208.110.66.108	United States	Missouri	Kansas City	39.1038	-94.5727	32097   
+660	None	None	None	None	None	None	None
+661	None	None	None	None	None	None	None
+662	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+663	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+664	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+665	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+666	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+667	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+668	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+669	58.53.194.67	China	Hubei	Wuhan	30.5833	114.2667	4134    
+670	None	None	None	None	None	None	None
+671	59.110.247.187	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+672	59.110.247.187	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+673	59.110.247.187	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+674	59.110.247.187	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+675	59.110.247.187	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+676	59.110.247.187	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+677	117.48.195.228	China	Beijing	Beijing	39.9075	116.3972	17816   
+678	117.48.195.228	China	Beijing	Beijing	39.9075	116.3972	17816   
+679	117.48.195.228	China	Beijing	Beijing	39.9075	116.3972	17816   
+680	60.209.7.69	China	Shandong	Qingdao	36.0986	120.3719	4837    
+681	60.209.7.69	China	Shandong	Qingdao	36.0986	120.3719	4837    
+682	60.209.7.69	China	Shandong	Qingdao	36.0986	120.3719	4837    
+683	60.209.7.69	China	Shandong	Qingdao	36.0986	120.3719	4837    
+684	60.209.7.69	China	Shandong	Qingdao	36.0986	120.3719	4837    
+685	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+686	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+687	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+688	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+689	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+690	None	None	None	None	None	None	None
+691	None	None	None	None	None	None	None
+692	None	None	None	None	None	None	None
+693	None	None	None	None	None	None	None
+694	None	None	None	None	None	None	None
+695	None	None	None	None	None	None	None
+696	None	None	None	None	None	None	None
+697	None	None	None	None	None	None	None
+698	None	None	None	None	None	None	None
+699	None	None	None	None	None	None	None
+700	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+701	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+702	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+703	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+704	60.209.7.71	China	Shandong	Qingdao	36.0986	120.3719	4837    
+705	52.11.197.129	United States	Oregon	Portland	45.5234	-122.6762	16509   
+706	52.11.197.129	United States	Oregon	Portland	45.5234	-122.6762	16509   
+707	202.85.215.135	China	Beijing	Beijing	39.9075	116.3972	4808    
+708	202.85.215.135	China	Beijing	Beijing	39.9075	116.3972	4808    
+709	180.86.222.132	China	Beijing	Beijing	39.9075	116.3972	4808    
+710	180.86.222.132	China	Beijing	Beijing	39.9075	116.3972	4808    
+711	103.218.240.249	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	59077   
+712	103.218.240.249	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	59077   
+713	103.218.240.249	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	59077   
+714	61.156.8.195	China	Shandong	Jinan	36.6683	116.9972	4837    
+715	61.156.8.195	China	Shandong	Jinan	36.6683	116.9972	4837    
+716	47.93.25.126	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+717	61.154.12.1	China	Fujjian	Fuzhou	26.0614	119.3061	4134    
+718	101.251.192.205	China	Beijing	Beijing	39.9075	116.3972	4808    
+719	101.251.192.205	China	Beijing	Beijing	39.9075	116.3972	4808    
+720	218.56.48.179	China	Shandong	Jinan	36.6683	116.9972	4837    
+721	218.56.48.179	China	Shandong	Jinan	36.6683	116.9972	4837    
+722	None	None	None	None	None	None	None
+723	None	None	None	None	None	None	None
+724	None	None	None	None	None	None	None
+725	None	None	None	None	None	None	None
+726	202.203.209.15	China	Yunnan	Kunming	25.0389	102.7183	4538    
+727	202.203.209.15	China	Yunnan	Kunming	25.0389	102.7183	4538    
+728	202.203.209.15	China	Yunnan	Kunming	25.0389	102.7183	4538    
+729	202.203.209.15	China	Yunnan	Kunming	25.0389	102.7183	4538    
+730	None	None	None	None	None	None	None
+731	None	None	None	None	None	None	None
+732	None	None	None	None	None	None	None
+733	None	None	None	None	None	None	None
+734	None	None	None	None	None	None	None
+735	61.153.17.65	China	Zhejiang	Ningbo	29.8782	121.5495	136188  
+736	47.254.19.2	United States	California	San Mateo	37.5474	-122.3306	45102   
+737	None	None	None	None	None	None	None
+738	221.203.5.93	China	Liaoning	Anshan	41.1236	122.9900	4837    
+739	112.124.43.41	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+740	137.175.23.167	United States	California	San Jose	37.3337	-121.8893	54600   
+741	211.137.43.143	China	Liaoning	Shenyang	41.7922	123.4328	56044   
+742	118.178.33.32	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+743	221.238.16.68	China	Tianjin	Tianjin	39.1422	117.1767	17638   
+744	45.33.51.163	United States	New Jersey	Pomona	39.4201	-74.4998	63949   
+745	45.33.51.163	United States	New Jersey	Pomona	39.4201	-74.4998	63949   
+746	None	None	None	None	None	None	None
+747	None	None	None	None	None	None	None
+748	None	None	None	None	None	None	None
+749	107.150.122.64	United States	California	Diamond Bar	34.0001	-117.8162	59077   
+750	107.150.122.64	United States	California	Diamond Bar	34.0001	-117.8162	59077   
+751	58.215.81.27	China	Jiangsu	Wuxi	31.5689	120.2886	4134    
+752	120.52.19.5	China	Hebei	Langfang	39.5097	116.6947	133119  
+753	120.52.19.5	China	Hebei	Langfang	39.5097	116.6947	133119  
+754	121.207.231.231	China	Fujian	Fuzhou	26.0614	119.3061	133774  
+755	220.189.207.19	China	Zhejiang	Zhoushan	30.0107	122.2047	4134    
+756	220.189.207.19	China	Zhejiang	Zhoushan	30.0107	122.2047	4134    
+757	14.17.99.222	China	Guangdong	Foshan	23.0268	113.1315	134764  
+758	14.17.99.222	China	Guangdong	Foshan	23.0268	113.1315	134764  
+759	123.57.163.11	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+760	47.90.86.6	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	45102   
+761	None	None	None	None	None	None	None
+762	221.122.114.10	China	Beijing	Beijing	39.9075	116.3972	23724   
+763	204.11.56.48	Virgin Islands, British	British Virgin Islands	Road Town	18.4167	-64.6167	40034   
+764	180.168.26.117	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+765	180.168.26.117	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+766	61.155.211.202	China	Jiangsu	Suzhou	31.3114	120.6181	23650   
+767	139.219.108.122	China	Shanghai	Shanghai	31.2222	121.4581	58593   
+768	None	None	None	None	None	None	None
+769	None	None	None	None	None	None	None
+770	124.251.87.51	China	Beijing	Beijing	39.9075	116.3972	9802    
+771	43.241.8.62	China	Beijing	Beijing	39.9075	116.3972	4808    
+772	43.241.8.62	China	Beijing	Beijing	39.9075	116.3972	4808    
+773	61.176.212.25	China	Liaoning	Liaoyang	41.2719	123.1731	4837    
+774	61.176.212.25	China	Liaoning	Liaoyang	41.2719	123.1731	4837    
+775	117.34.14.126	China	Shanxi	Taiyuan	37.8694	112.5603	4835    
+776	113.207.1.7	China	Chongqing	Chongqing	29.5628	106.5528	4837    
+777	113.207.1.7	China	Chongqing	Chongqing	29.5628	106.5528	4837    
+778	202.112.14.178	China	Beijing	Beijing	39.9075	116.3972	4538    
+779	202.115.22.251	China	Sichuan	Linqiong	30.4159	103.4609	4538    
+780	54.236.221.45	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+781	54.236.221.45	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+782	None	None	None	None	None	None	None
+783	None	None	None	None	None	None	None
+784	59.151.42.20	China	Beijing	Beijing	39.9075	116.3972	9308    
+785	59.151.42.20	China	Beijing	Beijing	39.9075	116.3972	9308    
+786	121.42.248.66	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+787	121.42.248.66	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+788	106.75.20.6	China	Shanghai	Shanghai	31.2222	121.4581	4808    
+789	180.168.36.240	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+790	180.168.36.240	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+791	61.156.45.56	China	Shandong	Zaozhuang	34.8647	117.5542	4837    
+792	None	None	None	None	None	None	None
+793	23.224.47.174	United States	California	Los Angeles	34.0522	-118.2437	33330   
+794	218.1.73.12	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+795	218.1.73.8	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+796	121.127.232.251	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	38197   
+797	220.201.8.29	China	Liaoning	Dalianwan	39.0286	121.6950	4837    
+798	121.40.36.140	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+799	218.240.151.205	China	Beijing	Beijing	39.9075	116.3972	23724   
+800	None	None	None	None	None	None	None
+801	59.151.1.234	China	Beijing	Beijing	39.9075	116.3972	9308    
+802	59.36.99.178	China	Guangdong	Dongguan	23.0489	113.7447	134763  
+803	103.59.145.41	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	133199  
+804	None	None	None	None	None	None	None
+805	54.72.9.51	Ireland	Dublin	Dublin	53.3440	-6.2672	16509   
+806	210.73.64.54	China	Beijing	Beijing	39.9075	116.3972	18239   
+807	61.49.3.10	China	Beijing	Beijing	39.9075	116.3972	4808    
+808	None	None	None	None	None	None	None
+809	None	None	None	None	None	None	None
+810	60.28.200.123	China	Tianjin	Tianjin	39.1422	117.1767	4837    
+811	61.147.125.36	China	Jiangsu	Yangzhou	32.3972	119.4358	4134    
+812	None	None	None	None	None	None	None
+813	39.155.229.30	China	Beijing	Beijing	39.9075	116.3972	56048   
+814	47.92.80.94	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+815	None	None	None	None	None	None	None
+816	101.37.225.65	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+817	202.114.242.85	China	Hubei	Wuhan	30.5833	114.2667	4538    
+818	None	None	None	None	None	None	None
+819	222.73.159.251	China	Shanghai	Shanghai	31.2222	121.4581	4812    
+820	115.28.161.31	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+821	123.196.117.234	China	Beijing	Beijing	39.9075	116.3972	4847    
+822	None	None	None	None	None	None	None
+823	199.59.242.150	United States	New York	New York City	40.7313	-73.9901	395082  
+824	123.59.187.65	China	Beijing	Beijing	39.9075	116.3972	4808    
+825	123.57.38.216	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+826	61.143.225.12	China	Guangdong	Zhaoqing	23.0512	112.4597	58543   
+827	218.17.204.35	China	Guangdong	Shenzhen	22.5455	114.0683	4134    
+828	None	None	None	None	None	None	None
+829	125.118.69.163	China	Zhejiang	Hangzhou	30.2936	120.1614	4134    
+830	118.123.15.105	China	Sichuan	Mianyang	31.4593	104.7542	38283   
+831	221.10.245.11	China	Sichuan	Mianyang	31.4593	104.7542	4837    
+832	23.82.220.88	United States	Arizona	Phoenix	33.6789	-111.9375	396190  
+833	125.46.65.89	China	Henan	Zhengzhou	34.7578	113.6486	4837    
+834	123.56.179.37	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+835	None	None	None	None	None	None	None
+836	183.131.12.60	China	Zhejiang	Hangzhou	30.2936	120.1614	4134    
+837	180.141.91.160	China	Guangxi	Nanning	22.8167	108.3167	4134    
+838	None	None	None	None	None	None	None
+839	None	None	None	None	None	None	None
+840	None	None	None	None	None	None	None
+841	None	None	None	None	None	None	None
+842	219.234.3.27	China	Beijing	Beijing	39.9075	116.3972	23724   
+843	154.85.169.41	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	134548  
+844	125.46.50.100	China	Henan	Zhengzhou	34.7578	113.6486	4837    
+845	103.242.200.218	China	Beijing	Beijing	39.9075	116.3972	4808    
+846	45.120.153.79	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	133115  
+847	118.31.7.72	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+848	121.194.0.254	China	Beijing	Beijing	39.9075	116.3972	4538    
+849	115.25.217.36	China	Beijing	Beijing	39.9075	116.3972	4538    
+850	112.91.131.149	China	Guangdong	Guangzhou	23.1167	113.2500	17816   
+851	61.132.114.30	China	Jiangsu	Suzhou	31.3114	120.6181	4134    
+852	218.57.241.35	China	Shandong	Jinan	36.6683	116.9972	4837    
+853	52.58.78.16	Germany	Hessen	Frankfurt am Main	50.1155	8.6842	16509   
+854	None	None	None	None	None	None	None
+855	46.51.238.1	Japan	Tokyo	Tokyo	35.6895	139.6917	16509   
+856	None	None	None	None	None	None	None
+857	118.145.9.177	China	Beijing	Beijing	39.9075	116.3972	4847    
+858	52.72.167.138	United States	Virginia	Ashburn	39.0437	-77.4875	14618   
+859	118.178.237.251	China	Zhejiang	Hangzhou	30.2936	120.1614	37963   
+860	None	None	None	None	None	None	None
+861	46.51.238.1	Japan	Tokyo	Tokyo	35.6895	139.6917	16509   
+862	None	None	None	None	None	None	None
+863	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+864	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+865	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+866	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+867	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+868	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+869	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+870	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+871	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+872	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+873	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+874	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+875	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+876	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+877	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+878	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+879	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+880	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+881	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+882	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+883	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+884	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+885	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+886	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+887	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+888	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+889	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+890	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+891	123.252.146.84	India	Maharashtra	Mumbai	19.0144	72.8479	17762   
+892	104.20.133.24	United States	Arizona	Phoenix	33.4484	-112.0740	13335   
+893	200.61.190.10	Argentina	Cordoba	Cordoba	-31.4135	-64.1811	16814   
+894	50.87.216.95	United States	Utah	Provo	40.2139	-111.6341	46606   
+895	50.87.216.95	United States	Utah	Provo	40.2139	-111.6341	46606   
+896	50.87.216.95	United States	Utah	Provo	40.2139	-111.6341	46606   
+897	50.63.202.51	United States	Arizona	Scottsdale	33.6020	-111.8879	26496   
+898	50.63.202.51	United States	Arizona	Scottsdale	33.6020	-111.8879	26496   
+899	50.63.202.51	United States	Arizona	Scottsdale	33.6020	-111.8879	26496   
+900	196.40.87.163	Costa Rica	Alajuela	San Ramon	10.0880	-84.4702	3790    
+901	204.11.56.48	Virgin Islands, British	British Virgin Islands	Road Town	18.4167	-64.6167	40034   
+902	190.4.93.42	Costa Rica	San Jose	San Jose	9.9333	-84.0833	16973   
+903	None	None	None	None	None	None	None
+904	93.140.12.77	Croatia	Zagrebacka zupanija	Samobor	45.8031	15.7181	5391    
+905	93.140.12.77	Croatia	Zagrebacka zupanija	Samobor	45.8031	15.7181	5391    
+906	93.140.12.77	Croatia	Zagrebacka zupanija	Samobor	45.8031	15.7181	5391    
+907	161.53.1.133	Croatia	Grad Zagreb	Zagreb	45.8144	15.9780	2108    
+908	104.20.89.82	United States	Arizona	Phoenix	33.4484	-112.0740	13335   
+909	104.20.88.82	United States	Arizona	Phoenix	33.4484	-112.0740	13335   
+910	212.91.124.179	Croatia	Primorsko-goranska zupanija	Rijeka	45.3431	14.4092	12810   
+911	213.202.100.36	Croatia	Grad Zagreb	Zagreb	45.8144	15.9780	13046   
+912	None	None	None	None	None	None	None
+913	81.0.227.164	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	15685   
+914	81.0.227.164	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	15685   
+915	81.0.227.164	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	15685   
+916	94.113.255.173	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	6830    
+917	94.113.255.173	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	6830    
+918	193.179.222.34	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	5588    
+919	None	None	None	None	None	None	None
+920	195.113.166.159	Czech Republic	Plzensky kraj	Plzen	49.7475	13.3776	2852    
+921	None	None	None	None	None	None	None
+922	193.35.103.8	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	197694  
+923	193.35.103.8	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	197694  
+924	193.35.103.8	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	197694  
+925	193.35.103.8	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	197694  
+926	193.35.103.8	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	197694  
+927	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+928	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+929	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+930	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+931	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+932	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+933	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+934	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+935	81.30.226.144	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	15935   
+936	None	None	None	None	None	None	None
+937	None	None	None	None	None	None	None
+938	158.196.149.141	Czech Republic	Moravskoslezsky kraj	Ostrava	49.8346	18.2820	2852    
+939	217.31.49.20	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	29134   
+940	217.31.49.20	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	29134   
+941	91.217.96.138	Czech Republic	Jihomoravsky kraj	Brno	49.1952	16.6080	6830    
+942	91.103.162.124	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	42000   
+943	193.105.159.124	Czech Republic	Zlinsky kraj	Zlin	49.2167	17.6667	24806   
+944	195.39.32.56	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	5588    
+945	None	None	None	None	None	None	None
+946	193.179.186.37	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	5588    
+947	None	None	None	None	None	None	None
+948	None	None	None	None	None	None	None
+949	193.105.159.124	Czech Republic	Zlinsky kraj	Zlin	49.2167	17.6667	24806   
+950	173.239.23.228	United States	New York	New York City	40.7143	-74.0060	27257   
+951	None	None	None	None	None	None	None
+952	None	None	None	None	None	None	None
+953	89.233.174.25	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	12767   
+954	88.86.104.1	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	39392   
+955	129.142.32.93	Denmark	Sjelland	Koge	55.4580	12.1821	9158    
+956	129.142.32.93	Denmark	Sjelland	Koge	55.4580	12.1821	9158    
+957	None	None	None	None	None	None	None
+958	None	None	None	None	None	None	None
+959	80.248.30.70	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	29689   
+960	80.248.30.70	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	29689   
+961	80.248.30.70	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	29689   
+962	80.248.30.70	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	29689   
+963	80.248.30.70	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	29689   
+964	188.64.155.89	Denmark	Sjelland	Frederiksberg	55.4162	11.5693	58282   
+965	192.38.52.15	Denmark	Hovedstaden	Kongens Lyngby	55.7704	12.5038	1835    
+966	54.72.9.51	Ireland	Dublin	Dublin	53.3440	-6.2672	16509   
+967	69.172.201.153	United States	California	Los Angeles	34.0522	-118.2437	19324   
+968	None	None	None	None	None	None	None
+969	None	None	None	None	None	None	None
+970	193.4.58.173	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	1850    
+971	80.248.30.70	Iceland	Hofudborgarsvaedi	Reykjavik	64.1355	-21.8954	29689   
+972	None	None	None	None	None	None	None
+973	92.61.150.78	Germany	Hamburg	Hamburg	53.5753	10.0153	29671   
+974	None	None	None	None	None	None	None
+975	130.225.27.132	Denmark	Hovedstaden	Kongens Lyngby	55.7704	12.5038	1835
+976	195.41.77.182	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	3292    
+977	195.41.77.182	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	3292    
+978	178.23.177.75	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	196724  
+979	178.23.177.75	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	196724  
+980	94.143.8.101	Denmark	Midtjylland	Randers	56.4667	10.0500	43220   
+981	194.150.112.19	Denmark	Midtjylland	Randers	56.4667	10.0500	43220   
+982	87.50.154.165	Denmark	Syddanmark	Varde	55.6211	8.4807	3292    
+983	87.50.154.165	Denmark	Syddanmark	Varde	55.6211	8.4807	3292    
+984	188.244.66.158	Denmark	Hovedstaden	Ballerup	55.7317	12.3633	21060   
+985	93.191.156.9	Denmark	Midtjylland	Skanderborg	56.0399	9.9272	48854   
+986	93.191.156.9	Denmark	Midtjylland	Skanderborg	56.0399	9.9272	48854   
+987	None	None	None	None	None	None	None
+988	193.3.234.102	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	31027   
+989	193.111.162.125	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	24853   
+990	None	None	None	None	None	None	None
+991	5.103.118.118	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	44869   
+992	5.103.118.118	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	44869   
+993	5.103.118.118	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	44869   
+994	5.103.118.118	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	44869   
+995	194.150.113.17	Denmark	Midtjylland	Randers	56.4667	10.0500	43220   
+996	80.198.71.179	Denmark	Syddanmark	Odense	55.3959	10.3883	3292    
+997	94.231.109.94	Denmark	Midtjylland	Skanderborg	56.0399	9.9272	48854   
+998	77.66.88.226	Denmark	Hovedstaden	Copenhagen	55.6759	12.5655	16245   
+999	93.191.155.240	Denmark	Midtjylland	Skanderborg	56.0399	9.9272	48854

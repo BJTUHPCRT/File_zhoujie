@@ -1,0 +1,12 @@
+
+
+epoch 0 train cost time 561.73, rmse loss is 1.22065, mae loss is 0.40102 
+
+
+
+
+
+
+
+epoch 0 train cost time 534.60, rmse loss is 1.22021, mae loss is 0.40097 
+epoch 1 train cost time 659.40, rmse loss is 1.20030, mae loss is 0.38910 

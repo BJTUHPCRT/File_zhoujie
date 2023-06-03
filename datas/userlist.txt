@@ -1,0 +1,420 @@
+0	75.130.96.12	United States	Massachusetts	Worcester	42.2758	-71.8201	10326   
+1	75.130.96.13	United States	Massachusetts	Worcester	42.2758	-71.8201	10326   
+2	None	None	None	None	None	None	None
+3	None	None	None	None	None	None	None
+4	195.37.16.121	Germany	Bayern	Passau	48.5712	13.4490	680     
+5	206.12.16.154	Canada	British Columbia	Vancouver	49.2833	-123.1148	11105   
+6	206.12.16.155	Canada 	British Columbia	Vancouver	49.2833	-123.1148	11105   
+7	143.248.55.128	Korea	Daejeon-gwangyeoksi	Taiden	36.3214	127.4197	1781    
+8	143.248.55.129	Korea	Daejeon-gwangyeoksi	Taiden	36.3214	127.4197	1781    
+9	None	None	None	None	None	None	None
+10	84.88.58.154	Spain	Catalunya	Barcelona	41.3888	2.1590	13041   
+11	84.88.58.155	Spain 	Catalunya	Barcelona	41.3888	2.1590	13041   
+12	192.91.235.229	United States	Rhode Island	Providence	41.8239	-71.4010	11078   
+13	151.97.9.224	Italy 	Sicilia	Catania	37.5021	15.0872	137     
+14	151.97.9.225	Italy 	Sicilia	Catania	37.5021	15.0872	137     
+15	130.83.166.243	Germany	Hessen	Darmstadt	49.8706	8.6494	8365    
+16	130.83.166.245	Germany	Hessen	Darmstadt	49.8706	8.6494	8365    
+17	131.254.208.12	France	Bretagne	Rennes	48.1120	-1.6743	1938    
+18	131.254.208.13	France	Bretagne	Rennes	48.1120	-1.6743	1938    
+19	129.13.100.9	Germany	Baden-Wurttemberg	Oststadt	49.0096	8.4245	34878   
+20	129.13.100.10	Germany	Baden-Wurttemberg	Oststadt	49.0096	8.4245	34878   
+21	192.91.235.232	United States	Rhode Island	Providence	41.8239	-71.4010	11078   
+22	134.117.226.181	Canada 	Ontario	Ottawa	45.3862	-75.6993	29773   
+23	None	None	None	None	None	None	None
+24	129.237.161.193	United States	Kansas	Lawrence	38.9581	-95.2643	2496    
+25	129.237.161.194	United States	Kansas	Lawrence	38.9581	-95.2643	2496    
+26	140.247.60.123	United States	Massachusetts	Cambridge	42.3783	-71.1304	1742    
+27	141.22.213.35	Germany	Baden-Wurttemberg	Nack	47.6068	8.5781	680     
+28	82.179.176.42	Russian Federation	Moskva	Zelenograd	55.9825	37.1814	31575   
+29	141.22.213.34	Germany	Baden-Wurttemberg	Nack	47.6068	8.5781	680     
+30	128.8.126.98	United States	Maryland	College Park	38.9921	-76.9528	27      
+31	141.219.252.132	United States	Michigan	Houghton	47.1167	-88.5629	62618   
+32	141.219.252.133	United States	Michigan	Houghton	47.1167	-88.5629	62618   
+33	203.246.112.147	Korea	Seoul-teukbyeolsi	Seoul	37.5683	126.9778	18176   
+34	203.246.112.148	Korea	Seoul-teukbyeolsi	Seoul	37.5683	126.9778	18176   
+35	None	None	None	None	None	None	None
+36	169.226.40.2	United States	New York	Colonie	42.7179	-73.8335	22990   
+37	169.226.40.4	United States	New York	Colonie	42.7179	-73.8335	22990   
+38	170.140.119.70	United States	Georgia	Druid Hills	33.7804	-84.3360	3512    
+39	None	None	None	None	None	None	None
+40	None	None	None	None	None	None	None
+41	195.116.53.22	Poland	Mazowieckie	Warsaw	52.2298	21.0118	5617    
+42	130.104.72.213	Belgium	Brabant wallon	Louvain-la-Neuve	50.6683	4.6144	2611    
+43	195.116.53.23	Poland	Mazowieckie	Warsaw	52.2298	21.0118	5617    
+44	195.116.53.24	Poland	Mazowieckie	Warsaw	52.2298	21.0118	5617    
+45	150.244.58.159	Spain	Madrid, Comunidad de	Madrid	40.4165	-3.7026	766     
+46	128.8.126.78	United States	Maryland	College Park	38.9921	-76.9528	27      
+47	217.173.198.153	Poland	Opolskie	Opole	50.6667	17.9500	21182   
+48	131.254.208.10	France	Bretagne	Rennes	48.1120	-1.6743	1938    
+49	131.254.208.11	France	Bretagne	Rennes	48.1120	-1.6743	1938    
+50	192.12.33.100	United States	California	Menlo Park	37.4369	-122.1936	30      
+51	192.12.33.102	United States	California	Menlo Park	37.4369	-122.1936	30      
+52	150.140.184.251	Greece	Dytiki Ellada	Rion	38.3000	21.7833	5408    
+53	150.140.184.252	Greece	Dytiki Ellada	Rion	38.3000	21.7833	5408    
+54	202.125.215.12	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	4616    
+55	None	None	None	None	None	None	None
+56	None	None	None	None	None	None	None
+57	128.36.233.153	United States	Connecticut	New Haven	41.3255	-72.9383	29      
+58	142.150.238.12	Canada	Ontario	Wilcox Corners	43.0751	-79.5918	239     
+59	162.105.205.21	China	Beijing	Beijing	39.9075	116.3972	4538    
+60	216.48.80.12	Canada	Ontario	ByWard Market	45.4271	-75.6923	25826   
+61	156.56.250.226	United States	Indiana	Bloomington	39.2203	-86.4582	87      
+62	139.30.241.191	Germany	Mecklenburg-Vorpommern	Rostock	54.0887	12.1405	680     
+63	222.99.146.81	Korea	Gyeonggi-do	Suwon	37.2667	127.0167	4766
+64	None	None	None	None	None	None	None
+65	None	None	None	None	None	None	None
+66	128.36.233.154	United States	Connecticut	New Haven	41.3255	-72.9383	29      
+67	142.150.238.13	Canada	Ontario	Wilcox Corners	43.0751	-79.5918	239     
+68	None	None	None	None	None	None	None
+69	130.194.252.9	Australia	Victoria	Clayton North	-37.9167	145.1333	56132   
+70	162.105.205.22	China	Beijing	Beijing	39.9075	116.3972	4538    
+71	216.48.80.14	Canada	Ontario	ByWard Market	45.4271	-75.6923	25826   
+72	165.242.90.129	Japan	Hiroshima	Hiroshima	34.3853	132.4553	2506    
+73	139.30.241.192	Germany	Mecklenburg-Vorpommern	Rostock	54.0887	12.1405	680     
+74	210.32.181.184	China 	Zhejiang	Gudang	30.2784	120.1184	4538    
+75	158.110.27.116	Italy 	Friuli-Venezia Giulia	Udine	46.0619	13.2422	137     
+76	158.110.27.127	Italy	Friuli-Venezia Giulia	Udine	46.0619	13.2422	137     
+77	143.89.49.73	Hong Kong 	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	3363    
+78	143.89.49.74	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	114.1577	3363    
+79	None	None	None	None	None	None	None
+80	None	None	None	None	None	None	None
+81	None	None	None	None	None	None	8508    
+82	160.80.221.37	Italy	Lazio	Rome	41.8947	12.4839	137     
+83	160.80.221.39	Italy	Lazio	Rome	41.8947	12.4839	137     
+84	169.235.24.133	United States	California	Riverside	33.9723	-117.3474	6106    
+85	200.5.239.35	Argentina	Mendoza	Mendoza	-32.8908	-68.8272	10834   
+86	169.235.24.232	United States	California	Riverside	33.9723	-117.3474	6106    
+87	200.5.239.36	Argentina	Mendoza	Mendoza	-32.8908	-68.8272	10834   
+88	None	None	None	None	None	None	None
+89	None	None	None	None	None	None	None
+90	None	None	None	None	None	None	None
+91	None	None	None	None	None	None	None
+92	None	None	None	None	None	None	None
+93	None	None	None	None	None	None	None
+94	None	None	None	None	None	None	None
+95	143.215.131.206	United States	Georgia	Atlanta	33.7757	-84.3990	2637    
+96	210.75.225.60	China	Beijing	Beijing	39.9075	116.3972	7497    
+97	157.181.175.249	Hungary	Budapest	Budapest	47.4980	19.0399	2012    
+98	141.76.45.17	Germany	Sachsen	Dresden	51.0509	13.7383	680     
+99	88.255.99.250	Turkey	Istanbul	Istanbul	41.0138	28.9497	9121    
+100	None	None	None	None	None	None	None
+101	133.68.253.242	Japan	Tokyo	Tokyo	35.6895	139.6917	2907    
+102	193.137.173.217	Portugal	Aveiro	Aveiro	40.6443	-8.6455	1930    
+103	160.78.253.31	Italy	Emilia-Romagna	Parma	44.8027	10.3290	137     
+104	130.73.241.33	Germany	Berlin	Berlin	52.5244	13.4105	680     
+105	143.215.131.197	United States	Georgia	Atlanta	33.7757	-84.3990	2637    
+106	157.181.175.248	Hungary	Budapest	Budapest	47.4980	19.0399	2012    
+107	141.76.45.18	Germany	Sachsen	Dresden	51.0509	13.7383	680     
+108	88.255.99.251	Turkey	Istanbul	Istanbul	41.0138	28.9497	9121    
+109	None	None	None	None	None	None	None
+110	133.68.253.243	Japan	Tokyo	Tokyo	35.6895	139.6917	2907    
+111	193.137.173.218	Portugal	Aveiro	Aveiro	40.6443	-8.6455	1930    
+112	160.78.253.32	Italy	Emilia-Romagna	Parma	44.8027	10.3290	137     
+113	130.73.241.34	Germany	Berlin	Berlin	52.5244	13.4105	680     
+114	128.111.52.63	United States 	California	Santa Barbara	34.4330	-119.8354	131     
+115	143.215.131.199	United States	Georgia	Atlanta	33.7757	-84.3990	2637    
+116	128.111.52.64	United States 	California	Santa Barbara	34.4330	-119.8354	131     
+117	128.111.52.58	United States 	California	Santa Barbara	34.4330	-119.8354	131     
+118	128.111.52.59	United States	California	Santa Barbara	34.4330	-119.8354	131     
+119	204.8.155.226	United States	Massachusetts	Brighton	42.3508	-71.1184	111     
+120	136.145.115.194	Puerto Rico	San Juan	San Juan	18.4663	-66.1057	5786    
+121	198.82.160.238	United States	Virginia	Blacksburg	37.2557	-80.4315	1312    
+122	204.8.155.227	United States	Massachusetts	Brighton	42.3508	-71.1184	111     
+123	136.145.115.196	Puerto Rico	San Juan	San Juan	18.4663	-66.1057	5786    
+124	128.112.139.18	United States	New Jersey	Trenton	40.2170	-74.7429	88      
+125	198.82.160.221	United States	Virginia	Blacksburg	37.2557	-80.4315	1312    
+126	208.94.63.193	United States	California	San Luis Obispo	35.2980	-120.6598	46357   
+127	None	None	None	None	None	None	None
+128	130.216.1.22	New Zealand	Auckland	Auckland	-36.8667	174.7667	9431    
+129	194.42.17.163	Cyprus	Lefkosia	Nicosia	35.1667	33.3667	3268    
+130	192.43.193.71	Switzerland	Basel-Stadt	Basel	47.5584	7.5733	559     
+131	164.107.127.12	United States	Ohio	Grandview Heights	39.9798	-83.0407	159     
+132	192.36.94.2	Sweden	Ostergotlands lan	Linkoping	58.4167	15.6167	2843    
+133	None	None	None	None	None	None	None
+134	195.148.124.73	Finland	Uusimaa	Espoo	60.2052	24.6522	1741    
+135	222.197.180.137	China	Sichuan	Linqiong	30.4159	103.4609	4538    
+136	202.112.28.98	China	Beijing	Beijing	39.9075	116.3972	4538    
+137	192.16.125.11	Sweden	Stockholms lan	Stockholm	59.3326	59.3326	8973    
+138	202.116.81.194	China	Guangdong	Zhongshan	22.5206	113.3823	4538    
+139	193.138.2.12	Slovenia	Ljubljana	Ljubljana	46.0511	14.5051	2107    
+140	193.138.2.13	Slovenia	Ljubljana	Ljubljana	46.0511	14.5051	2107    
+141	208.94.63.194	United States	California	San Luis Obispo	35.2980	-120.6598	46357   
+142	None	None	None	None	None	None	None
+143	130.216.1.23	New Zealand	Auckland	Auckland	-36.8667	174.7667	9431    
+144	129.82.12.188	United States	Colorado	Campion	40.3494	-105.0778	12145   
+145	192.43.193.72	Switzerland	Basel-Stadt	Basel	47.5584	7.5733	559     
+146	164.107.127.13	United States	Ohio	Grandview Heights	39.9798	-83.0407	159     
+147	192.36.94.3	Sweden	Ostergotlands lan	Linkoping	58.4167	15.6167	2843    
+148	None	None	None	None	None	None	None
+149	150.254.212.148	Poland	Wielkopolskie	Poznan	52.4069	16.9299	9112    
+150	195.148.124.74	Finland	Uusimaa	Espoo	60.2052	24.6522	1741    
+151	222.197.180.139	China	Sichuan	Linqiong	30.4159	103.4609	4538    
+152	202.112.28.100	China	Beijing	Beijing	39.9075	116.3972	4538    
+153	192.16.125.12	Sweden	Stockholms lan	Stockholm	59.3326	18.0649	8973    
+154	202.116.81.195	China	Guangdong	Zhongshan	22.5206	113.3823	4538    
+155	None	None	None	None	None	None	None
+156	128.233.252.12	Canada	Saskatchewan	Saskatoon	52.1327	-106.6340	22950   
+157	None	None	None	None	None	None	None
+158	146.179.62.13	United Kingdom	England	North Kensington	51.4954	-0.1780	786     
+159	193.136.191.20	Portugal	Lisboa	Lisbon	38.7167	-9.1333	1930    
+160	None	None	None	None	None	None	None
+161	None	None	None	None	None	None	None
+162	129.22.150.29	United States	Ohio	East Cleveland	41.5331	-81.5790	32666   
+163	146.179.62.14	United Kingdom	England	North Kensington	51.4954	-0.1780	786     
+164	193.136.191.21	Portugal	Lisboa	Lisbon	38.7167	-9.1333	1930    
+165	129.22.150.78	United States	Ohio	East Cleveland	41.5331	-81.5790	32666   
+166	193.1.13.12	Ireland	Westmeath	Baile Atha Luain	53.4333	-7.9500	1213    
+167	192.107.171.145	New Zealand	Waikato	Hamilton	-37.7833	175.2833	681     
+168	192.107.171.147	New Zealand	Waikato	Hamilton	-37.7833	175.2833	681     
+169	157.159.226.72	France	Ile-de-France	Evry	48.6333	2.4500	2094    
+170	157.159.226.74	France	Ile-de-France	Evry	48.6333	2.4500	2094    
+171	193.136.19.13	Portugal	Braga	Braga	41.5503	-8.4200	1930    
+172	193.136.19.29	Portugal	Braga	Braga	41.5503	-8.4200	1930    
+173	203.178.133.2	Japan	Osaka	Osaka	34.6939	135.5022	2500    
+174	None	None	None	None	None	None	None
+175	128.208.4.197	United States	Washington	Seattle	47.6639	-122.2920	73      
+176	143.225.229.236	Italy	Campania	Naples	40.8333	14.2500	137     
+177	128.143.6.134	United States	Virginia	Charlottesville	37.9985	-78.4704	225     
+178	130.149.49.136	Germany	Berlin	Berlin	52.5244	13.4105	680     
+179	None	None	None	None	None	None	None
+180	128.208.4.198	United States	Washington	Seattle	47.6639	-122.2920	73      
+181	143.225.229.238	Italy	Campania	Naples	40.8333	14.2500	137     
+182	128.143.6.130	United States	Virginia	Charlottesville	37.9985	-78.4704	225     
+183	128.208.4.199	United States	Washington	Seattle	47.6639	-122.2920	73      
+184	128.208.4.99	United States	Washington	Seattle	47.6639	-122.2920	73      
+185	200.0.206.202	Uruguay	Montevideo	Montevideo	-34.8335	-56.1674	27750   
+186	200.0.206.136	Uruguay	Montevideo	Montevideo	-34.8335	-56.1674	27750   
+187	128.227.150.11	United States	Florida	Gainesville	29.6454	-82.3487	6356    
+188	134.151.255.180	United Kingdom	England	Birmingham	52.4814	-1.8998	786     
+189	None	None	None	None	None	None	None
+190	128.187.223.211	United States	Utah	Mapleton	40.1302	-111.5785	6510    
+191	200.17.202.194	Brazil	Parana	Curitiba	-25.4278	-49.2731	10881   
+192	195.113.161.82	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	2852    
+193	156.17.10.51	Poland	Dolnoslaskie	Wroclaw	51.1000	17.0333	8970    
+194	None	None	None	None	None	None	None
+195	128.220.231.2	United States	Maryland	Baltimore	39.3284	-76.6021	5723    
+196	202.202.43.198	China	Chongqing	Chongqing	29.5628	106.5528	4538    
+197	75.126.164.178	United States	Texas	Dallas	32.9395	-96.8387	36351   
+198	128.59.20.226	United States	New Jersey	Edgewater	40.8270	-73.9757	14      
+199	128.84.167.121	United States	New York	East Ithaca	42.4395	-76.4786	26      
+200	139.78.141.243	United States 	Oklahoma	Stillwater	36.1132	-97.0569	395421  
+201	139.80.206.132	New Zealand	Otago	Dunedin	-45.8742	170.5036	38305   
+202	192.52.240.213	United States	Pennsylvania	Gastonville	40.2573	-79.9959	4130    
+203	128.10.18.52	United States	Indiana	West Lafayette	40.3689	-86.8774	17      
+204	142.103.2.1	Canada	British Columbia	Vancouver	49.2658	-123.2566	393249  
+205	131.179.150.70	United States	California	Los Angeles	34.0703	-118.4476	52      
+206	129.242.19.196	Norway	Troms	Tromso	69.6489	18.9551	224     
+207	72.36.112.71	United States	Illinois	Urbana	40.1110	-88.1971	38      
+208	128.119.247.251	United States	Massachusetts	Amherst	42.4039	-72.5299	1249    
+209	129.63.159.101	United States	Massachusetts	Lowell	42.6485	-71.3360	46905   
+210	204.85.191.10	United States	North Carolina	Chapel Hill	35.9132	-79.0558	36850   
+211	195.130.121.204	Greece	Ipeiros	Neochoropoulon	39.6286	20.8342	5408    
+212	131.247.2.241	United States	Florida	Tampa	28.0605	-82.4115	5661    
+213	192.41.136.218	Switzerland	Zurich	Zurich	47.3667	8.5500	559     
+214	193.136.124.3	Portugal 	Setubal	Almada	38.6790	-9.1569	1930    
+215	203.178.133.11	Japan	Osaka	Osaka	34.6939	135.5022	2500    
+216	130.195.4.68	New Zealand	Wellington	Wellington	-41.2866	174.7756	23905   
+217	212.201.44.81	Germany	Bremen	Sankt Magnus	53.1659	8.6621	680     
+218	132.170.3.32	United States	Florida	Orlando	28.6047	-81.2048	7939    
+219	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+220	202.189.126.85	Hong Kong	Hong Kong (SAR)	Hong Kong	22.2855	22.2855	4528    
+221	137.99.26.115	United States	Connecticut	Montville Center	41.4790	-72.1512	13796   
+222	193.55.112.40	France	Provence-Alpes-Cote d'Azur	Biot	43.6272	7.0964	2200    
+223	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+224	193.136.227.163	Portugal	Faro	Faro	37.0194	-7.9322	1930    
+225	147.229.8.26	Czech Republic	Jihomoravsky kraj	Brno	49.1952	16.6080	197451  
+226	141.161.20.32	United States	Maryland	Port Tobacco	38.5084	-77.0424	11318   
+227	193.157.115.250	Norway	Oslo	Oslo	59.9127	10.7461	224     
+228	131.188.44.100	Germany	Bayern	Erlangen	49.5956	10.9950	680     
+229	134.76.249.229	Germany 	Niedersachsen	Gottingen	51.5393	9.9341	680     
+230	132.187.230.7	Germany	Bayern	Wuerzburg	49.7878	9.9361	680     
+231	54.72.9.51	Ireland	Dublin	Dublin	53.3440	-6.2672	16509   
+232	128.220.251.50	United States	Maryland	Baltimore	39.3284	-76.6021	5723    
+233	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+234	169.229.50.3	United States	California	Berkeley	37.8692	-122.2564	25      
+235	194.29.178.5	Poland	Mazowieckie	Warsaw	52.2298	21.0118	12464   
+236	139.165.12.211	Belgium	Liege	Seraing	50.5836	5.5012	2611    
+237	194.36.10.160	United Kingdom	England	London	51.5085	-0.1257	198864  
+238	155.223.52.1	Turkey	Izmir	Izmir	38.4127	27.1384	2592    
+239	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+240	200.19.159.34	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	1916    
+241	200.129.132.18	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	1916    
+242	200.132.1.4	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	2716    
+243	206.117.37.4	United States	California	Los Angeles	34.0283	-118.2813	4       
+244	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+245	165.230.49.114	United States	New Jersey	Highland Park	40.4959	-74.4243	46      
+246	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+247	193.205.215.74	Italy	Trentino-Alto Adige	Trento	46.0679	11.1211	137     
+248	124.232.132.94	China 	Hunan	Changsha	28.2000	112.9667	4134    
+249	165.91.55.8	United States	Texas	College Station	30.6111	-96.3491	3794    
+250	192.114.4.2	Israel	Tel Aviv	Tel Aviv	32.0809	34.7806	378     
+251	129.32.84.160	United States	Pennsylvania	Philadelphia	39.9768	-75.1457	3778    
+252	130.206.158.138	Spain	Navarra, Comunidad Foral de	Pamplona	42.8169	-1.6432	766     
+253	152.66.245.161	Hungary	Budapest	Budapest	47.4980	19.0399	2547    
+254	206.23.240.28	United States	Tennessee	Nashville	36.1719	-86.7207	19956   
+255	155.54.239.64	Spain	Murcia, Region de	Murcia	37.9870	-1.1300	766     
+256	192.42.43.22	Switzerland	Neuchatel	Neuchatel	46.9918	6.9310	559     
+257	129.93.229.138	United States	Nebraska	Lincoln	40.8186	-96.7100	7896    
+258	147.83.30.166	Spain	Catalunya	Barcelona	41.3888	2.1590	13041   
+259	193.226.19.30	Romania	Mures	Targu-Mures	46.5424	24.5575	2614    
+260	193.144.21.130	Spain	Catalunya	Tarragona	41.1167	1.2500	766     
+261	124.232.132.94	China	Hunan	ChangSha	28.200	112.9667	4134    
+262	194.254.215.11	France	Grand-Est	Troyes	48.3000	4.0833	2200    
+263	124.232.132.94	China	Hunan	ChangSha	28.200	112.9667	4134    
+264	128.232.103.201	United Kingdom	England	Coton	52.2106	0.0609	786     
+265	169.229.50.12	United States	California	Berkeley	37.8692	-122.2564	25      
+266	161.106.240.18	France	Ile-de-France	Issy-les-Moulineaux	48.8210	2.2772	2278    
+267	200.0.206.169	Uruguay	Montevideo	Montevideo	-34.8335	-56.1674	27750   
+268	200.0.206.203	Uruguay	Montevideo	Montevideo	-34.8335	-56.1674	27750   
+269	200.0.206.137	Uruguay	Montevideo	Montevideo	-34.8335	-56.1674	27750   
+270	200.0.206.13	Uruguay	Montevideo	Montevideo	-34.8335	-56.1674	27750   
+271	128.227.150.12	United States	Florida	Gainesville	29.6454	-82.3487	6356    
+272	134.151.255.181	United Kingdom	England	Birmingham	52.4814	-1.8998	786     
+273	132.72.23.11	Israel	Tel Aviv	Tel Aviv	32.0809	34.7806	378     
+274	128.187.223.212	United States	Utah	Mapleton	40.1302	-111.5785	6510    
+275	195.113.161.83	Czech Republic 	Praha, Hlavni mesto	Prague	50.0880	14.4208	2852    
+276	156.17.10.52	Poland 	Dolnoslaskie	Wroclaw	51.1000	17.0333	8970    
+277	158.130.6.253	United States	Pennsylvania	Pennsylvania	39.9610	-75.1998	55      
+278	130.127.39.153	United States	South Carolina	Clemson	34.6755	-82.8230	12148   
+279	128.220.231.3	United States	Maryland	Baltimore	39.3284	-76.6021	5723    
+280	202.202.43.199	China	Chongqing	Chongqing	29.5628	106.5528	4538    
+281	195.251.248.181	Greece	Attiki	Athens	37.9795	23.7162	5408    
+282	31.13.97.245	Sweden	Norrbottens lan	Lulea	65.5842	22.1546	32934   
+283	128.59.20.227	United States	New Jersey	Edgewater	40.8270	-73.9757	14      
+284	128.84.167.122	United States	New York	East Ithaca	42.4395	-76.4786	26      
+285	139.78.141.245	United States	Oklahoma	Stillwater	36.1132	-97.0569	395421  
+286	139.80.206.133	New Zealand	Otago	Dunedin	-45.8742	170.5036	38305   
+287	192.52.240.214	United States	Pennsylvania	Gastonville	40.2573	-79.9959	4130    
+288	155.246.12.164	United States	New Jersey	Hoboken	40.7462	-74.0349	16889   
+289	142.103.2.2	Canada	British Columbia	Vancouver	49.2658	-123.2566	393249  
+290	131.179.150.72	United States	California	Los Angeles	34.0703	-118.4476	52      
+291	129.242.19.197	Norway 	Troms	Troms	69.6489	18.9551	224     
+292	128.119.247.250	United States	Massachusetts	Amherst	42.4039	-72.5299	1249    
+293	129.63.159.102	United States	Massachusetts	Lowell	42.6485	-71.3360	46905   
+294	204.85.191.11	United States	North Carolina	Chapel Hill	35.9132	-79.0558	36850   
+295	195.130.121.205	Greece	Ipeiros	Neochoropoulon	39.6286	20.8342	5408    
+296	130.37.193.143	Netherlands	Noord-Holland	Amsterdam	52.3740	4.8897	1103    
+297	131.247.2.242	United States	Florida	Tampa	28.0605	-82.4115	5661    
+298	192.41.136.219	Switzerland	Zurich	Zurich	47.3667	8.5500	559     
+299	193.136.124.5	Portugal	Setubal	Almada	38.6790	-9.1569	1930    
+300	124.232.132.94	China	Hunan	Changsha	28.2000	112.9667	4134
+301	212.201.44.82	Germany	Bremen	Sankt Magnus	53.1659	8.6621	680
+302	137.99.26.115	United States	Connecticut	Montville Center	41.4790	-72.1512	13796   
+303	193.55.112.41	France	Provence-Alpes-Cote d'Azur	Biot	43.6272	7.0964	2200    
+304	None	None	None	None	None	None	None
+305	193.136.227.164	Portugal	Faro	Faro	37.0194	-7.9322	1930    
+306	212.235.189.115	Slovenia 	Ljubljana	Ljubljana	46.0511	14.5051	2107    
+307	141.161.20.33	United States	Maryland	Port Tobacco	38.5084	-77.0424	11318   
+308	None	None	None	None	None	None	None
+309	139.91.90.239	Greece 	Attiki	Athens	37.9795	23.7162	8522    
+310	193.157.115.251	Norway	Oslo	Oslo	59.9127	10.7461	224     
+311	192.33.90.67	Switzerland	Zurich	Zurich	47.3667	8.5500	559     
+312	132.187.230.8	Germany	Bayern	Wuerzburg	49.7878	9.9361	680     
+313	195.130.124.2	Greece	Ionia Nisia	Kerkyra	39.6200	19.9197	5408    
+314	185.53.178.8	Germany	Bayern	Munich	48.1374	11.5755	61969   
+315	None	None	None	None	None	None	None
+316	169.229.50.4	United States	California	Berkeley	37.8692	-122.2564	25      
+317	212.199.61.205	Israel	HaMerkaz	Petah Tikva	32.0917	34.8850	9116    
+318	128.163.142.21	United States 	Kentucky	Lexington-Fayette	38.0498	-84.4585	23162   
+319	194.36.10.161	United Kingdom	England	London	51.5085	-0.1257	198864  
+320	128.238.88.65	United States	New York	Brooklyn	40.6950	-73.9910	54965   
+321	200.129.132.19	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	1916    
+322	200.132.1.6	Brazil	Rio de Janeiro	Rio de Janeiro	-22.9028	-43.2075	2716    
+323	206.117.37.5	United States	California	Los Angeles	34.0283	-118.2813	4       
+324	None	None	None	None	None	None	None
+325	None	None	None	None	None	None	None
+326	193.205.215.75	Italy	Trentino-Alto Adige	Trento	46.0679	11.1211	137     
+327	None	None	None	None	None	None	None
+328	165.91.55.9	United States	Texas	College Station	30.6111	-96.3491	3794    
+329	192.114.4.3	Israel 	Tel Aviv	Tel Aviv	32.0809	34.7806	378     
+330	129.32.84.161	United States	Pennsylvania	Philadelphia	39.9768	-75.1457	3778    
+331	152.66.245.162	Hungary	Budapest	Budapest	47.4980	19.0399	2547    
+332	206.23.240.29	United States 	Tennessee	Nashville	36.1719	-86.7207	19956   
+333	132.239.17.225	United States	California	La Jolla	32.8761	-117.2318	7377    
+334	155.54.239.65	Spain	Murcia, Region de	Murcia	37.9870	-1.1300	766     
+335	192.42.43.23	Switzerland 	Neuchatel	Neuchatel	46.9918	6.9310	559     
+336	129.93.229.139	United States	Nebraska	Lincoln	40.8186	-96.7100	7896    
+337	147.83.30.167	Spain	Catalunya	Barcelona	41.3888	2.1590	13041   
+338	None	None	None	None	None	None	None
+339	194.254.215.12	France	Grand-Est	Troyes	48.3000	4.0833	2200    
+340	185.38.3.77	Finland	Kanta-Hame	Vantaa	60.7193	24.8588	47605   
+341	137.165.1.112	United States	Massachusetts	Williamstown	42.7011	-73.2104	11399   
+342	141.20.103.3	Germany 	Berlin	Berlin	52.5244	13.4105	680     
+343	128.232.103.202	United Kingdom 	England	Coton	52.2106	0.0609	786     
+344	161.106.240.19	France	Ile-de-France	Issy-les-Moulineaux	48.8210	2.2772	2278    
+345	None	None	None	None	None	None	None
+346	128.59.20.228	United States	New Jersey	Edgewater	40.8270	-73.9757	14      
+347	138.251.214.77	United Kingdom	Scotland	Saint Andrews	56.3387	-2.7990	786     
+348	131.247.2.247	United States	Florida	Tampa	28.0605	-82.4115	5661    
+349	147.102.3.113	Greece	Attiki	Athens	37.9795	23.7162	3323    
+350	193.167.187.185	Finland	Uusimaa	Helsinki	60.1695	24.9354	1741    
+351	192.33.90.68	Switzerland	Zurich	Zurich	47.3667	8.5500	559     
+352	131.188.44.104	Germany	Bayern	Erlangen	49.5956	10.9950	680
+353	165.230.49.118	United States	New Jersey	Highland Park	40.4959	-74.4243	46
+354	165.91.55.10	United States 	Texas	College Statio	30.6111	-96.3491	3794    
+355	132.239.17.226	United States	California	La Jolla	32.8761	-117.2318	7377    
+356	147.83.30.164	Spain	Catalunya	Barcelona	41.3888	2.1590	13041   
+357	137.165.1.113	United States	Massachusetts	Williamstown	42.7011	-73.2104	11399   
+358	128.232.103.203	United Kingdom	England	Coton	52.2106	0.0609	786     
+359	138.251.214.78	United Kingdom	Scotland	Saint Andrews	56.3387	-2.7990	786     
+360	72.36.112.74	United States	Illinois	Urbana	40.1110	-88.1971	38      
+361	131.247.2.245	United States	Florida	Tampa	28.0605	-82.4115	5661    
+362	None	None	None	None	None	None	None
+363	133.9.81.164	Japan	Tokyo	Tokyo	35.6895	139.6917	17956   
+364	193.167.187.186	Finland	Uusimaa	Helsinki	60.1695	24.9354	1741    
+365	192.33.90.69	Switzerland	Zurich	Zurich	47.3667	8.5500	559     
+366	206.117.37.7	United States	California	Los Angeles	34.0283	-118.2813	4       
+367	165.230.49.119	United States	New Jersey	Highland Park	40.4959	-74.4243	46      
+368	137.165.1.114	United States	Massachusetts	Williamstown	42.7011	-73.2104	11399   
+369	128.84.167.125	United States	New York	East Ithaca	42.4395	-76.4786	26      
+370	72.36.112.78	United States	Illinois	Urbana	40.1110	-88.1971	38      
+371	131.247.2.246	United States	Florida	Tampa	28.0605	-82.4115	5661    
+372	141.212.113.180	United States	Michigan	Ann Arbor	42.2909	-83.7144	36375   
+373	169.229.50.7	United States	California	Berkeley	37.8692	-122.2564	25      
+374	137.165.1.115	United States	Massachusetts	Williamstown	42.7011	-73.2104	11399   
+375	None	None	None	None	None	None	None
+376	128.31.1.16	United States	Massachusetts	Cambridge	42.3651	-71.1045	3       
+377	131.247.2.248	United States	Florida	Tampa	28.0605	-82.4115	5661    
+378	133.9.81.166	Japan	Tokyo	Tokyo	35.6895	139.6917	17956   
+379	128.31.1.17	United States	Massachusetts	Cambridge	42.3651	-71.1045	3       
+380	155.98.35.8	United States	Utah	Salt Lake City	40.7540	-111.8817	17055   
+381	129.10.120.193	United States	Massachusetts	Boston	42.3419	-71.0968	156     
+382	None	None	None	None	None	None	None
+383	None	None	None	None	None	None	None
+384	129.10.120.194	United States	Massachusetts	Boston	42.3419	-71.0968	156     
+385	129.69.210.97	Germany	Baden-Wurttemberg	Stuttgart	48.7823	9.1770	553     
+386	203.159.63.249	Thailand	Krung Thep Maha Nakhon	Bangkok	13.7500	100.5167	4767    
+387	195.113.161.13	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	2852    
+388	212.51.218.235	Poland	Lodzkie	Lodz	51.7500	19.4667	8256    
+389	203.159.63.250	Thailand	Krung Thep Maha Nakhon	Bangkok	13.7500	100.5167	4767    
+390	195.113.161.14	Czech Republic	Praha, Hlavni mesto	Prague	50.0880	14.4208	2852    
+391	212.51.218.237	Poland	Lodzkie	Lodz	51.7500	19.4667	8256    
+392	199.26.254.69	United States	Maryland	Ironsides	38.4917	-77.1600	11279   
+393	None	None	None	None	None	None	None
+394	None	None	None	None	None	None	None
+395	129.97.74.12	Canada	Ontario	Waterloo	43.4704	-80.5384	12093   
+396	None	None	None	None	None	None	None
+397	None	None	None	None	None	None	None
+398	210.32.133.7	China	Zhejiang	Gudang	30.2784	120.1184	4538    
+399	192.1.249.137	United States	Massachusetts	Cambridge	42.3783	-71.1304	11488   
+400	192.1.249.138	United States	Massachusetts	Cambridge	42.3783	-71.1304	11488   
+401	129.97.74.14	Canada	Ontario	Waterloo	43.4704	-80.5384	12093   
+402	192.91.235.230	United States	Rhode Island	Providence	41.8239	-71.4010	11078   
+403	None	None	None	None	None	None	None
+404	133.1.74.162	Japan	Osaka	Osaka	34.6939	135.5022	4730    
+405	128.42.142.41	United States	Texas	West University Place	29.7180	-95.4338	8       
+406	128.42.142.44	United States	Texas	West University Place	29.7180	-95.4338	8       
+407	128.42.142.45	United States	Texas	West University Place	29.7180	-95.4338	8       
+408	140.247.60.126	United States	Massachusetts	Cambridge	42.3783	-71.1304	1742    
+409	138.48.3.203	Belgium	Namur	Namur	50.4669	4.8675	2611    
+410	None	None	None	None	None	None	None
+411	128.8.126.111	United States	Maryland	College Park	38.9921	-76.9528	27      
+412	134.117.226.180	Canada	Ontario	Ottawa	45.3862	-75.6993	29773   
+413	150.244.58.161	Spain	Madrid, Comunidad de	Madrid	40.4165	-3.7026	766     
+414	82.179.176.44	Russian Federation	Moskva	Zelenograd	55.9825	37.1814	31575   
+415	147.102.224.227	Greece	Attiki	Athens	37.9795	23.7162	3323    
+416	None	None	None	None	None	None	None
+417	None	None	None	None	None	None	None
+418	128.8.126.79	United States	Maryland	College Park	38.9921	-76.9528	27      
+419	None	None	None	None	None	None	None
