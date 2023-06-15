@@ -86,7 +86,7 @@ class Pair_Interaction_Modify(Module):
 			try:
 				result1[i] = tempt1[i].index_select(0, indexs1[i])
 			except Exception as e:
-				print(tempt1, indexs1, e)
+				print(tempt1)
 
 		#第二轮的交互，可以考虑干掉
 		# count = 0

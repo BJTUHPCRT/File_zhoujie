@@ -13,7 +13,6 @@ from TimeSeriesSimilarity import process
 device = config["device"]
 l2_lambda = config["l2_lambda"]
 sigma = config["sigma"]
-filled_matrix = config["fill_matrix_path"]
 steps = config["steps"] # lstm时间步
 batch_size = config["batch_size"]
 epochs = config["epochs"]
@@ -119,7 +118,8 @@ def train():
 	user_similarity_matrix, service_similarity_matrix = process(train_matrix)
 	# model
 	model = PersonalizeLSTM(
-		embedding_middle_size, hidden_size, device,
+		embedding_middle_size, hidden_size,
+		device=device,
 		user_similarity_matrix=user_similarity_matrix.to(device),
 		service_similarity_matrix= service_similarity_matrix.to(device),
 		invoke_matrix=train_matrix.to(device)
@@ -152,12 +152,3 @@ def train():
 
 if __name__ == "__main__":
 	train()
-
-
-
-
-
-
-
-
-

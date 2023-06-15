@@ -5,9 +5,6 @@ service_num = 1000
 time_slots = 96
 ratio = 10
 ratio_str = "%dpercent"%ratio
-train_data_path = "../datas/140_1000_96/%s/train_data.csv"%ratio_str
-test_data_path = "../datas/140_1000_96/%s/test_data.csv"%ratio_str
-fill_matrix_path = "./targets/%s/matrix_result_new_method.pt"%ratio_str
 outputfilename = "./result/result-record_%.2f.txt"%ratio
 
 
@@ -28,9 +25,6 @@ config = {
 	"loss_type": 3, # 0: L1, 1: L2, 3: Huber Loss
 	"steps": 4,
 	"pmldn_k": 1,
-	"train_data_path": train_data_path,
-	"test_data_path": test_data_path,
-	"fill_matrix_path": fill_matrix_path,
 	"outputfilename": outputfilename,
 	"density": [5, 10, 15, 20],
 	"device": torch.device('cuda:1' if torch.cuda.is_available() else 'cpu'),
